@@ -2,6 +2,8 @@
 
 ![ezgif com-crop](https://user-images.githubusercontent.com/38796098/57738594-6b6ae500-76b0-11e9-9d29-0f59ee825e8e.gif)
 
+42 Algorithm Project - Sort problem
+
 Given a set of integers, sort it using a predefined set of instructions using
 two stacks. The instruction set is defined below. This program outputs a program
 in push_swap instructions that sorts the input integers.
